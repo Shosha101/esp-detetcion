@@ -1,0 +1,4 @@
+train:  D:\yolov11_custom\train
+val:  D:\yolov11_custom\val
+nc: 1
+names:  ["ball"]
